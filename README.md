@@ -35,7 +35,7 @@ Check where Boost and Eigen are installed for your individual machine if this do
 
 To compile on Ubuntu, I used the command:
 
-`$ g++ -std=c++0x `pkg-config --cflags eigen3` main.cpp LinearRegression.cpp Utils.cpp -o test`
+`$ g++ -std=c++0x ``pkg-config --cflags eigen3`` main.cpp LinearRegression.cpp Utils.cpp -o test`
 
 Note that you may have to install pkg-config. If an error appears where the terminal requests you install pkg-config, use this command:
 
