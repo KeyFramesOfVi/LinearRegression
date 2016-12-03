@@ -14,6 +14,7 @@ To use this code, you must have Eigen C++ (I used Version 3.3 during the time I 
 have installed both before you using this. 
 
 Instructions and information about Eigen can be found on:
+
 http://eigen.tuxfamily.org/index.php?title=Main_Page
 
 You can install Boost C++ on Mac using the following command:
