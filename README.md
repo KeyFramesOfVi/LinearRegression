@@ -17,9 +17,11 @@ Instructions and information about Eigen can be found on:
 http://eigen.tuxfamily.org/index.php?title=Main_Page
 
 You can install Boost C++ on Mac using the following command:
+
 `sudo port install boost`
 
 You can install Boost C++ on Linux environments using the following command:
+
 `sudo apt-get install libboost-all-dev`
 
 COMPILING:
