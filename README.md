@@ -6,6 +6,10 @@ Normalization has been added, Regularization will be added soon.
 To practice better understanding Machine Learning algorithms, I planned on doing this for the standard algorithms taught in an undergraduate course. 
 However, due to my time being focused on other projects, I have stopped this for now. I will update whenever I can afford the time. 
 
+The design of this algorithm is based off the following courses:
+https://www.coursera.org/learn/machine-learning
+http://cs229.stanford.edu/
+
 
 REQUIREMENTS:
 ==========
